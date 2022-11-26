@@ -1,0 +1,19 @@
+{
+  "name": "curso-practico-de-api-rest",
+  "version": "1.0.0",
+  "description": "Proyecto para curso de consumo de API REST",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manuelmad/curso-practico-de-api-rest.git"
+  },
+  "author": "@manuelmad",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/manuelmad/curso-practico-de-api-rest/issues"
+  },
+  "homepage": "https://github.com/manuelmad/curso-practico-de-api-rest#readme"
+}
